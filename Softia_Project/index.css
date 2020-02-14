@@ -1,0 +1,20 @@
+.base {
+    background: #66ffff;
+    border-radius: 10px;
+    border: 1px gray solid;
+    width: 500px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.title {
+    text-align: center;
+}
+
+.button {
+    border-radius: 3px;
+}
+
+.button:active {
+    transform: translateY(4px);
+}
